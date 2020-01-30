@@ -15,5 +15,7 @@ require 'pry'
  }
   
 def remove_strawberry(contacts)
+  contact["Freddy Mercury"].each |item, value|
+  if item == 
 
 end
